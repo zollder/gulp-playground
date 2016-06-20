@@ -1,0 +1,25 @@
+{
+  "name": "grunt-test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "connect": "^3.4.1",
+    "connect-livereload": "^0.5.4",
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.0.1",
+    "gulp-less": "^3.1.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-load-plugins": "^1.2.4",
+    "jshint": "^2.9.2",
+    "jshint-stylish": "^2.2.0",
+    "opn": "^4.0.2",
+    "serve-index": "^1.8.0",
+    "serve-static": "^1.11.1"
+  }
+}
